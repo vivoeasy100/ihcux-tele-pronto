@@ -114,4 +114,5 @@ ihcux-tele-pronto/
 │   └── prototipo.pdf[Uploading TelePronto_Prototipo_Baixa_Fidelidade .pdf…]()
 
 │
-└── README.md[Uploading TelePronto_Prototipo_Baixa_Fidelidade .pdf…]()
+└── README.md[Uploading TelePronto_Prototipo_Baixa_Fidelidade .pdf…]()<img width="1536" height="1024" alt="TelePronto_Prototipo_Baixa_Fidelidade " src="https://github.com/user-attachments/assets/e7a64a9a-797b-4976-a9fa-d838f20a468c" />
+
