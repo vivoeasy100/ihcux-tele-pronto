@@ -109,10 +109,9 @@ Quando a internet está instável:
 ihcux-tele-pronto/
 │
 ├── prototipo/
-│   ├── prototipo.png <img width="1536" height="1024" alt="TelePronto_Prototipo_Baixa_Fidelidade " src="https://github.com/user-attachments/assets/26474672-808b-4549-907b-cdf5758a850c" />
+│   ├── prototipo.png 
 
-│   └── prototipo.pdf[Uploading TelePronto_Prototipo_Baixa_Fidelidade .pdf…]()
+│   └── prototipo.pdf
 
 │
-└── README.md[Uploading TelePronto_Prototipo_Baixa_Fidelidade .pdf…]()<img width="1536" height="1024" alt="TelePronto_Prototipo_Baixa_Fidelidade " src="https://github.com/user-attachments/assets/e7a64a9a-797b-4976-a9fa-d838f20a468c" />
-
+└── README.md
